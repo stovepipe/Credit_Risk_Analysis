@@ -9,47 +9,47 @@ The purpose of this analysis was to compare 6 different machine learning algorit
 ## Results
 Using the 6 models, the following metrics were recorded:
 
-Naive Over-Sampling + Logisitic Regression:
-Accuracy: 66.7%
-Confusion Matrix:
-![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/1ml.png)
-Precision: 99%
-Recall: 67%
+Naive Over-Sampling + Logisitic Regression:<br>
+Accuracy: 66.7%<br>
+Confusion Matrix:<br>
+![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/1ml.png)<br>
+Precision: 99%<br>
+Recall: 67%<br>
 ____________________________
-SMOTE Over-Sampling + Logistic Regression:
-Accuracy: 66.4%
-Confusion Matrix:
-![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/2ml.png)
-Precision: 99%
-Recall: 66%
+SMOTE Over-Sampling + Logistic Regression:<br>
+Accuracy: 66.4%<br>
+Confusion Matrix:<br>
+![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/2ml.png)<br>
+Precision: 99%<br>
+Recall: 66%<br>
 ___________________________
-Centroid Clusters Under-Sampling + Logistic Regression:
-Accuracy: 44.6%
-Confusion Matrix:
-![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/3ml.png)
-Precision: 99%
-Recall: 45%
+Centroid Clusters Under-Sampling + Logistic Regression:<br>
+Accuracy: 44.6%<br>
+Confusion Matrix:<br>
+![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/3ml.png)<br>
+Precision: 99%<br>
+Recall: 45%<br>
 __________________________
-SMOTEENN Over and Under Sampling + Logistic Regression:
-Accuracy: 54%
-Confusion Matrix:
-![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/4ml.png)
-Precision: 99%
-Recall: 54%
+SMOTEENN Over and Under Sampling + Logistic Regression:<br>
+Accuracy: 54%<br>
+Confusion Matrix:<br>
+![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/4ml.png)<br>
+Precision: 99%<br>
+Recall: 54%<br>
 ___________________________
-Balanced Random Forest Classifier:
-Accuracy: 80.1%
-Confusion Matrix:
-![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/5ml.png)
-Precision: 99%
-Recall: 90%
+Balanced Random Forest Classifier:<br>
+Accuracy: 80.1%<br>
+Confusion Matrix:<br>
+![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/5ml.png)<br>
+Precision: 99%<br>
+Recall: 90%<br>
 __________________________
-Easy Ensemble AdaBoost Classifier:
-Accuracy: 92.3%
-Confusion Matrix:
-![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/6ml.png)
-Precision: 99%
-Recall: 94%
+Easy Ensemble AdaBoost Classifier:<br>
+Accuracy: 92.3%<br>
+Confusion Matrix:<br>
+![alt text](https://github.com/stovepipe/Credit_Risk_Analysis/blob/main/Resources/6ml.png)<br>
+Precision: 99%<br>
+Recall: 94%<br>
 
 ## Summary
 
