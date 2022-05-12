@@ -56,4 +56,4 @@ Recall: 94%<br>
 ### Conclusion
 In reviewing the results of the 6 models, the ensemble learning algorithms appear to have the highest accuracy in regards to their predictions.
 
-The logisitic regression models had accuracy scores significantly less than the ensemble algorithms. However, due to the financial nature of the data and the implications involved in credit card lending, I would still struggle to recommend any of these models as the accuracy levels, because, while good, they still allow for a significant amount of false negatives resulting in credit being issued to high risk loans.
+The logisitic regression models had accuracy scores significantly less than the ensemble algorithms. However, due to the financial nature of the data and the implications involved in credit card lending, I would still struggle to recommend any of these models, because, while good, they still allow for a significant amount of false negatives resulting in credit being issued to high risk loans.
